@@ -1,4 +1,4 @@
-# LMIC Data Report
+# British Labor Statistics Report
 
 ## Code Overview
 The code utilizes R and various libraries to import, clean, and analyze datasets related to labor market statistics in British Columbia. It reads data from CSV files, performs data cleansing operations, merges datasets, and generates visualizations such as box plots and a bar chart showing the monthly change in employment across Canadian provinces. The analysis focuses on specific sectors, including accommodation and food services, wholesale and retail trade, and other services, providing valuable insights into the labor market dynamics.
