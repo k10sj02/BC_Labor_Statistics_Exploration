@@ -1,11 +1,9 @@
 # LMIC Data Report
 
-To: Mr. Anil Arora, Chief Statistician of Canada
-From: Labour Market Information Council (LMIC)
+## Code Overview
+The code utilizes R and various libraries to import, clean, and analyze datasets related to labor market statistics in British Columbia. It reads data from CSV files, performs data cleansing operations, merges datasets, and generates visualizations such as box plots and a bar chart showing the monthly change in employment across Canadian provinces. The analysis focuses on specific sectors, including accommodation and food services, wholesale and retail trade, and other services, providing valuable insights into the labor market dynamics.
 
-ATTN: Jobs Report – Monthly Change in Employment
-
-Dear Statistics Canada,
+### Final Report (EN)
 
 Here are my insights regarding nationwide jobs numbers across Canadian provinces from Jan 2020 to Sep 2020 across the wholesale and retail trade, accommodation and food services, as well as other services (public administration) sectors.
 
@@ -15,16 +13,7 @@ As you can see, there is pronounced job loss across all provinces in the startin
 
 With the tightening of regulations starting in the summer of 2020, the recovery of jobs held throughout the rest of the year despite growth being weaker in the last three months of the fiscal year when pandemic regulations once more tightened as the cold weather season set in. Interestingly enough, despite considerable job losses in the accommodation and food services sector, this sector rebounded more strongly than the other observed sectors when COVID-19 regulations were loosened. This return to form was probably due to pent-up demand for leisure among Canadians who endured the strictest lockdown protocol in all of North America. In addition, accommodation and food service were defined by job freezes and temporary layoffs with many workers returning to their jobs once demand rebounded.
 
-Best regards,
-
-## French Copy
-
-À : M. Anil Arora, statisticien en chef du Canada
-De : Conseil d'information sur le marché du travail (LMIC)
-
-ATTN : Rapport sur l'emploi - Variation mensuelle de l'emploi
-
-Statistique Canada :
+### Final Report (FR)
 
 Voici mes observations sur le nombre d'emplois à l'échelle nationale dans les provinces canadiennes de janvier 2020 à septembre 2020 dans les secteurs du commerce de gros et de détail, de l'hébergement et de la restauration, ainsi que d'autres services (administration publique).
 
