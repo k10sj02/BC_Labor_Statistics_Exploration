@@ -15,6 +15,8 @@ As you can see, there is pronounced job loss across all provinces in the startin
 
 With the tightening of regulations starting in the summer of 2020, the recovery of jobs held throughout the rest of the year despite growth being weaker in the last three months of the fiscal year when pandemic regulations once more tightened as the cold weather season set in. Interestingly enough, despite considerable job losses in the accommodation and food services sector, this sector rebounded more strongly than the other observed sectors when COVID-19 regulations were loosened. This return to form was probably due to pent-up demand for leisure among Canadians who endured the strictest lockdown protocol in all of North America. In addition, accommodation and food service were defined by job freezes and temporary layoffs with many workers returning to their jobs once demand rebounded.
 
+----- 
+
 ### Final Report (FR)
 
 Voici mes observations sur le nombre d'emplois à l'échelle nationale dans les provinces canadiennes de janvier 2020 à septembre 2020 dans les secteurs du commerce de gros et de détail, de l'hébergement et de la restauration, ainsi que d'autres services (administration publique).
