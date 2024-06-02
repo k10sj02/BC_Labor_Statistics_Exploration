@@ -5,7 +5,7 @@ The code utilizes R and various libraries to import, clean, and analyze datasets
 
 ---- 
 
-### Final Report (EN)
+### Final Report (English)
 
 Here are my insights regarding nationwide jobs numbers across Canadian provinces from Jan 2020 to Sep 2020 across the wholesale and retail trade, accommodation and food services, as well as other services (public administration) sectors.
 
@@ -17,7 +17,7 @@ With the tightening of regulations starting in the summer of 2020, the recovery 
 
 ----- 
 
-### Final Report (FR)
+### Rapport Final (Français)
 
 Voici mes observations sur le nombre d'emplois à l'échelle nationale dans les provinces canadiennes de janvier 2020 à septembre 2020 dans les secteurs du commerce de gros et de détail, de l'hébergement et de la restauration, ainsi que d'autres services (administration publique).
 
